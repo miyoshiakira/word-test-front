@@ -1,1 +1,0 @@
-export var apiURL = "https://2uowrt3jseofwjcrwbcagfkocm0msatj.lambda-url.ap-northeast-1.on.aws";
