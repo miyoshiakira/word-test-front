@@ -70,7 +70,7 @@ const Quiz: React.FC = () => {
 
       if (response.ok) {
         alert("送信成功！ページを更新します。");
-        //window.location.reload();
+        window.location.reload();
       } else {
         alert("送信失敗...");
       }
