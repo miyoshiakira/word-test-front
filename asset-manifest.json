@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/word-test-front/static/css/main.f855e6bc.css",
-    "main.js": "/word-test-front/static/js/main.645f4b65.js",
+    "main.js": "/word-test-front/static/js/main.7bb603ce.js",
     "static/js/453.66a148f9.chunk.js": "/word-test-front/static/js/453.66a148f9.chunk.js",
     "index.html": "/word-test-front/index.html",
     "main.f855e6bc.css.map": "/word-test-front/static/css/main.f855e6bc.css.map",
-    "main.645f4b65.js.map": "/word-test-front/static/js/main.645f4b65.js.map",
+    "main.7bb603ce.js.map": "/word-test-front/static/js/main.7bb603ce.js.map",
     "453.66a148f9.chunk.js.map": "/word-test-front/static/js/453.66a148f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.645f4b65.js"
+    "static/js/main.7bb603ce.js"
   ]
 }
